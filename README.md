@@ -9,7 +9,7 @@ The article explains how to use the MUI library in React.js by building a respon
 
 <br />
 
-![React MUI Introduction - Sample Page crafted with MUI.](https://user-images.githubusercontent.com/51070104/163096720-770405f2-a482-42c1-b9e9-732e3cc11065.jpg)
+![React MUI Introduction - Sample Page crafted with MUI.](https://user-images.githubusercontent.com/51070104/163208108-81305831-7bee-4cdf-ba44-6382c31e58a6.gif)
 
 <br />
 
