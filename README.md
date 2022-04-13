@@ -45,6 +45,8 @@ React.js is a JavaScript library that allows you to build fast and efficient web
 
 Material UI is a library that contains several React components that are flexible, mobile responsive, and production-ready. These components allow you to create stunning user interfaces with ease, and you always have complete control over their appearance and behaviour.
 
+- 👉 [MUI](https://mui.com/material-ui/getting-started/installation/) - official documentation  
+
 <br />
 
 --- 
