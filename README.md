@@ -1,6 +1,6 @@
 # [React MUI Introduction](https://blog.appseed.us/mui-react-coding-landing-page/)
 
-Sample Code for the blog article [React MUI Components - Learn by Coding](https://blog.appseed.us/mui-react-coding-landing-page/) - Provided by AppSeed.
+Sample Code for the blog article [React MUI Components - Learn by Coding](https://blog.appseed.us/mui-react-coding-landing-page/) - Provided by `AppSeed`.
 
 The article explains how to use the MUI library in React.js by building a responsive website. The website will be built with MUI components only, no HTML element will be used.
 
