@@ -21,6 +21,18 @@ The article explains how to use the MUI library in React.js by building a respon
 
 <br />
 
+## Components
+
+- `Header` 
+- `Hero`
+- `Info Section`
+- `AboutUs`
+- `Testimonial`
+- `ContactUs`
+- `Footer`   
+
+<br />
+
 ## What is React.js
 
 React.js is a JavaScript library that allows you to build fast and efficient web applications using the minimum amount of code possible. In React.js, you can break the web layout into components - reusable bits of code that return HTML elements. 
