@@ -46,8 +46,8 @@ ElevationScroll.propTypes = {
 const Header = (props) => {
   const classes = useStyles();
   const links = [
-    { id: 1, route: 'About Us' },
-    { id: 2, route: 'Contact Us' },
+    { id: 1, route: 'About', url: 'https://blog.appseed.us/mui-react-coding-landing-page/' },
+    { id: 2, route: 'More Apps', url: 'https://appseed.us/apps/react' },
   ];
 
   const [state, setState] = React.useState({
@@ -92,7 +92,7 @@ const Header = (props) => {
           <Toolbar className={classes.toolBar}>
             <Link href="#" underline="none">
               <Typography variant="h5" className={classes.logo}>
-                Swift Inc.
+                MUI Sample
               </Typography>
             </Link>
 
@@ -124,7 +124,7 @@ const Header = (props) => {
               }}
             >
               {links.map((link) => (
-                <Link href="#" underline="none" key={link.id}>
+                <Link href={link.url} target="_blank" underline="none" key={link.id}>
                   <Typography className={classes.link}>{link.route}</Typography>
                 </Link>
               ))}
