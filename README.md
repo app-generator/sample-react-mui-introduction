@@ -9,7 +9,7 @@ The article explains how to use the MUI library in React.js by building a respon
 
 <br />
 
-![React MUI Introduction - Sample Page crafted with MUI.](https://user-images.githubusercontent.com/51070104/163208108-81305831-7bee-4cdf-ba44-6382c31e58a6.gif)
+![React MUI Introduction - Sample Page crafted with MUI.](https://user-images.githubusercontent.com/51070104/167240339-dc157d52-8fc1-410f-b5f1-74ab11205b0b.gif)
 
 <br />
 
@@ -18,6 +18,10 @@ The article explains how to use the MUI library in React.js by building a respon
 - Install `NodejS` - version 14.x or higher 
 - Install dependencies via `yarn`
 - Start the project: `yarn start` 
+
+<br />
+
+![React MUI Introduction - Sample Page crafted with MUI.](https://user-images.githubusercontent.com/51070104/163208108-81305831-7bee-4cdf-ba44-6382c31e58a6.gif)
 
 <br />
 
