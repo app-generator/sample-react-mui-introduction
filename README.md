@@ -7,7 +7,15 @@ The article explains how to use the MUI library in React.js by building a respon
 - 👉 [React MUI Landing Page](https://react-mui-landing-page.appseed-srv1.com/) - LIVE Demo
 - 👉 [React Apps](https://appseed.us/apps/react) - index provided by `AppSeed`
 
-<br /> 
+<br />
+
+## [Black Friday 2022](https://appseed.us) - `75%OFF`
+
+> The campaign is active until `30.NOV` and applies to all products and licenses.
+
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
+
+<br />
 
 ## How to use it 
 
