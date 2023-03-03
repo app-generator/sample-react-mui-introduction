@@ -41,11 +41,11 @@ React.js is a JavaScript library that allows you to build fast and efficient web
 
 <br />
 
-## [Free MUI Templates](https://www.admin-dashboards.com/react-mui-template-open-source/)  
+## 🚀 [Free MUI Templates](https://www.admin-dashboards.com/react-mui-template-open-source/)  
 
 For those that search for a fully-fledged MUI Templates, here are some (all free). 
 
-### [MUI React Dashboard](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) 
+### ✅ [Material Dashboard MUI](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) 
 
 If you’re a developer looking to create an admin dashboard that is developer-friendly, rich with features, and highly customisable, here is your match. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
@@ -56,7 +56,7 @@ If you’re a developer looking to create an admin dashboard that is developer-f
 
 <br />
 
-### [Material Kit 2 React](https://www.creative-tim.com/product/material-kit-react?AFFILIATE=128200)
+### ✅ [Material Kit React](https://www.creative-tim.com/product/material-kit-react?AFFILIATE=128200) `MUI`
 
 This free MUI & React template is coming with pre-built design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
@@ -67,7 +67,7 @@ This free MUI & React template is coming with pre-built design blocks, so the de
 
 <br />
 
-### [Argon Dashboard 2 MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
+### ✅ [Argon Dashboard MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
 
 This Free MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done. If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages.
 
