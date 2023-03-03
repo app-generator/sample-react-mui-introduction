@@ -45,29 +45,29 @@ React.js is a JavaScript library that allows you to build fast and efficient web
 
 For those that search for a fully-fledged MUI Templates, here are some (all free). 
 
-### ✅ [Material Dashboard MUI](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) 
+### [Material Dashboard MUI](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) 👈 `LIVE Demo`
 
 If you’re a developer looking to create an admin dashboard that is developer-friendly, rich with features, and highly customisable, here is your match. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
 
-- 👉 [MUI React Dashboard](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 - 👉 [MUI React Dashboard](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200) - `Product page`
+- 👉 [MUI React Dashboard](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) - `LIVE Demo`
 
 [![Free MUI Template - Material Dashboard by Creative-Tim.](https://user-images.githubusercontent.com/51070104/222799990-38749aaa-ed0f-428f-96e4-c722fff76795.png)](https://www.creative-tim.com/product/material-dashboard-react?AFFILIATE=128200)
 
 <br />
 
-### ✅ [Material Kit React](https://www.creative-tim.com/product/material-kit-react?AFFILIATE=128200) `MUI`
+### [Material Kit React MUI](https://demos.creative-tim.com/material-kit-react/#/presentation?AFFILIATE=128200) 👈 `LIVE Demo`
 
 This free MUI & React template is coming with pre-built design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-- 👉 [Material Kit 2 React](https://demos.creative-tim.com/material-kit-react/#/presentation?AFFILIATE=128200) - `LIVE Demo`
 - 👉 [Material Kit 2 React](https://www.creative-tim.com/product/material-kit-react?AFFILIATE=128200) - `Product page`
+- 👉 [Material Kit 2 React](https://demos.creative-tim.com/material-kit-react/#/presentation?AFFILIATE=128200) - `LIVE Demo`
 
 [![Free MUI Template - Material Kit 2 React by Creative-Tim.](https://user-images.githubusercontent.com/51070104/222800859-d24edd3f-6176-4502-adb7-b989bb9527b9.png)](https://www.creative-tim.com/product/material-kit-react?AFFILIATE=128200)
 
 <br />
 
-### ✅ [Argon Dashboard MUI](https://www.creative-tim.com/product/argon-dashboard-material-ui?AFFILIATE=128200)
+### [Argon Dashboard MUI](https://demos.creative-tim.com/argon-dashboard-material-ui/#/dashboard?AFFILIATE=128200) 👈 `LIVE Demo`
 
 This Free MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done. If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages.
 
