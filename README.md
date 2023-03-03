@@ -81,4 +81,4 @@ This Free MUI Dashboard is coming with prebuilt design blocks, so the developmen
 <br />
 
 --- 
-[React MUI Introduction](https://blog.appseed.us/mui-react-coding-landing-page/) - provided by AppSeed 
+[React MUI Introduction](https://blog.appseed.us/mui-react-coding-landing-page/) - provided by [AppSeed](https://appseed.us/) 
