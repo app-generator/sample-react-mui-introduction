@@ -45,6 +45,8 @@ React.js is a JavaScript library that allows you to build fast and efficient web
 
 For those that search for a fully-fledged MUI Templates, here are some (all free). 
 
+<br />
+
 ### [Material Dashboard MUI](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?AFFILIATE=128200) 👈 `LIVE Demo`
 
 If you’re a developer looking to create an admin dashboard that is developer-friendly, rich with features, and highly customisable, here is your match. Material Dashboard 2 React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining.
